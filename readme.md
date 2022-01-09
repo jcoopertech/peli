@@ -20,7 +20,7 @@ __TAMPER TAGS:__ -
 __HAZARDS:__
 ```
 Highly explosive.
-NEC: --kg
+NEC: 3.972kg
 ```
 
 ***
