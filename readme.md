@@ -1,5 +1,4 @@
 # PELI CASE SAFETY DATA INFORMATION
-Updated.
 
 ## ID: `2CF6`
 __JOB:__ L2022 - Tools General Storage.
